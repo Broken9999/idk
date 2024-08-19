@@ -1,15 +1,17 @@
 {
-    "name": "Idk",
+    "name": "Game Longer",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "Idk": "github:broken9999/idk#819189fcc6c038ce3f937c25665738ce32916ffb"
     },
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "main.py"
     ],
     "testFiles": [
         "test.ts"
